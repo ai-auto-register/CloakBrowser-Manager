@@ -15,6 +15,9 @@ frontend/dist/
 # OS
 .DS_Store
 
+# Environment
+.env
+
 # Deploy
 deploy.sh
 
